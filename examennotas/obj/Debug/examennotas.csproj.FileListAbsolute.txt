@@ -1,0 +1,14 @@
+C:\Users\wilso\source\repos\examennotas\examennotas\bin\Debug\examennotas.exe.config
+C:\Users\wilso\source\repos\examennotas\examennotas\bin\Debug\examennotas.exe
+C:\Users\wilso\source\repos\examennotas\examennotas\bin\Debug\examennotas.pdb
+C:\Users\wilso\source\repos\examennotas\examennotas\obj\Debug\examennotas.csproj.AssemblyReference.cache
+C:\Users\wilso\source\repos\examennotas\examennotas\obj\Debug\examennotas.Form1.resources
+C:\Users\wilso\source\repos\examennotas\examennotas\obj\Debug\examennotas.Properties.Resources.resources
+C:\Users\wilso\source\repos\examennotas\examennotas\obj\Debug\examennotas.csproj.GenerateResource.cache
+C:\Users\wilso\source\repos\examennotas\examennotas\obj\Debug\examennotas.csproj.CoreCompileInputs.cache
+C:\Users\wilso\source\repos\examennotas\examennotas\obj\Debug\examennotas.exe
+C:\Users\wilso\source\repos\examennotas\examennotas\obj\Debug\examennotas.pdb
+C:\Users\wilso\source\repos\examennotas\examennotas\bin\Debug\examennotas.exe.manifest
+C:\Users\wilso\source\repos\examennotas\examennotas\bin\Debug\examennotas.application
+C:\Users\wilso\source\repos\examennotas\examennotas\obj\Debug\examennotas.exe.manifest
+C:\Users\wilso\source\repos\examennotas\examennotas\obj\Debug\examennotas.application
